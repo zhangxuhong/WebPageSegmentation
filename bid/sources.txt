@@ -1,0 +1,6 @@
+Pried apart a number of tutorials, including
+ - http://stackoverflow.com/questions/3600481/mysql-query-dates-older-than-1-week-ago-all-datetimes-in-utc
+ - http://www.tizag.com/mysqlTutorial/mysqlselect.php
+ - http://dev.mysql.com/doc/refman/5.0/en/date-and-time-literals.html
+ - http://www.zetcode.com/db/mysqlcsharptutorial/
+ - http://msdn.microsoft.com/en-us/library/66x5fx1b.aspx

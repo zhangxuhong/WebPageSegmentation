@@ -1,0 +1,44 @@
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.exe
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.pdb
+G:\Dropbox\Research\bids\bids\bid\bin\Debug\bid.exe
+G:\Dropbox\Research\bids\bids\bid\bin\Debug\bid.pdb
+G:\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bids.brownser.resources
+G:\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.Properties.Resources.resources
+G:\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.csproj.GenerateResource.Cache
+G:\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.exe
+G:\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.pdb
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\bin\Debug\bid.exe
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\bin\Debug\bid.pdb
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bids.brownser.resources
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\bid.Properties.Resources.resources
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xzhang37\Dropbox\Research\bids\bids\bid\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Dropbox\Research\bids\bid\bin\Debug\bid.exe.config
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\Interop.MediaPlayer.dll
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.csproj.ResolveComReference.cache
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.exe
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.pdb
+G:\Dropbox\Research\bids\bid\bin\Debug\bid.exe
+G:\Dropbox\Research\bids\bid\bin\Debug\bid.pdb
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.csprojResolveAssemblyReference.cache
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.brownser.resources
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.Properties.Resources.resources
+G:\Dropbox\Research\bids\bid\obj\x86\Debug\bid.csproj.GenerateResource.Cache
+C:\Users\xzhang37\Dropbox\Research\bids\bid\bin\Debug\bid.exe.config
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\bid.csproj.ResolveComReference.cache
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\bid.brownser.resources
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\bid.Properties.Resources.resources
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xzhang37\Dropbox\Research\bids\bid\bin\Debug\bid.exe
+C:\Users\xzhang37\Dropbox\Research\bids\bid\bin\Debug\bid.pdb
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\bid.exe
+C:\Users\xzhang37\Dropbox\Research\bids\bid\obj\x86\Debug\bid.pdb
+C:\Users\xzhang37\Dropbox\Research\new bid algorithm\trainning\bin\Debug\bid.exe.config
+C:\Users\xzhang37\Dropbox\Research\new bid algorithm\trainning\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\xzhang37\Dropbox\Research\new bid algorithm\trainning\obj\x86\Debug\bid.csproj.ResolveComReference.cache
+C:\Users\xzhang37\Dropbox\Research\new bid algorithm\trainning\obj\x86\Debug\bid.exe
+C:\Users\xzhang37\Dropbox\Research\new bid algorithm\trainning\obj\x86\Debug\bid.pdb

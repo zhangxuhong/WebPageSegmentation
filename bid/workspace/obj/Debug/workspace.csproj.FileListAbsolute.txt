@@ -1,0 +1,5 @@
+C:\Users\xzhang37\Dropbox\Research\bids\bid\workspace\bin\workspace.dll
+C:\Users\xzhang37\Dropbox\Research\bids\bid\workspace\bin\workspace.pdb
+C:\Users\xzhang37\Dropbox\Research\bids\bid\workspace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xzhang37\Dropbox\Research\bids\bid\workspace\obj\Debug\workspace.dll
+C:\Users\xzhang37\Dropbox\Research\bids\bid\workspace\obj\Debug\workspace.pdb
